@@ -38,3 +38,13 @@ h1,h2{
 .konyv p{
     padding-top: 20px;
 }
+
+.book{
+    height: 102px;
+    width: 102px;
+    float: right;
+}
+
+.kiemelt{
+    font-weight: bold;
+}
